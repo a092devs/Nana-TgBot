@@ -7,16 +7,16 @@
 ```
 #include <std/disclaimer.h>
 /**
-	I am no responsible about your account.
+	I am not responsible for anything that happens to your account.
 	I made this for fun only, if you get banned, reported, or even Banned by Telegram itself,
 	Then blame yourself.
 
-	This is not copy-pasta project!
-	I am make this from scratch with Pyrogram!
-	See Credits bellow before you say i am kanger!
+	This is not a copy-pasta project!
+	I have made this from scratch with Pyrogram!
+	See Credits below before you tag me as kanger!
 
-	If you blame me if something wrong with your account after use this bot,
-	See me in my group chat, i'll laught at you!
+	If you blame me for something wrong with your account after use this bot,
+	See me in my group chat, I'll laugh at you!
 
 	DO WITH YOU OWN RISK!
 */
